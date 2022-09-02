@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋
+
+Esse é meu perfil de games do GitHub!
 
 <!--
 **JvGil2/JvGil2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
